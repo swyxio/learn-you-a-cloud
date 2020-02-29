@@ -13,4 +13,10 @@ AWS vs Azure https://docs.microsoft.com/en-us/azure/architecture/aws-professiona
 - @jeremy_daly
 - @alexbdebrie
 - https://twitter.com/AWSbrett
-- 
+
+
+## Tricks
+
+Storage
+
+- lambda for secondary storage https://www.honeycomb.io/blog/secondary-storage-to-just-storage/
