@@ -1,6 +1,6 @@
 # learn-you-a-cloud
 
-
+base rates https://github.com/sirupsen/napkin-math
 GCP vs AWS https://cloud.google.com/docs/compare/aws
 
 AWS vs Azure https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services#feedback
