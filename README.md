@@ -5,6 +5,9 @@ GCP vs AWS https://cloud.google.com/docs/compare/aws
 
 AWS vs Azure https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services#feedback
 
+
+aws db's https://medium.com/@nicholasmwalsh/aws-databases-deep-dive-season-1-recap-61827ea7f471
+
 azure https://burkeholland.github.io/posts/laws-of-serverless/
 
 ## Interesting Follows
