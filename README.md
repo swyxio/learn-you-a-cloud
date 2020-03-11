@@ -19,6 +19,9 @@ azure https://burkeholland.github.io/posts/laws-of-serverless/
 - @alexbdebrie
 - https://twitter.com/AWSbrett
 
+## Dynamodb
+
+- https://fauna.com/blog/a-comparison-of-scalable-database-isolation-levels
 
 ## Tricks
 
