@@ -10,6 +10,12 @@ aws db's https://medium.com/@nicholasmwalsh/aws-databases-deep-dive-season-1-rec
 
 azure https://burkeholland.github.io/posts/laws-of-serverless/
 
+## Serverful
+
+- https://segment.com/blog/when-aws-autoscale-doesn-t/
+
+![https://assets.contents.io/asset_VZAy69XEkrpT8e4p.png](https://assets.contents.io/asset_VZAy69XEkrpT8e4p.png)
+
 ## Interesting Follows
 
 - @chrismunns
