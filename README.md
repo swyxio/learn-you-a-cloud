@@ -16,6 +16,10 @@ azure https://burkeholland.github.io/posts/laws-of-serverless/
 
 ![https://assets.contents.io/asset_VZAy69XEkrpT8e4p.png](https://assets.contents.io/asset_VZAy69XEkrpT8e4p.png)
 
+## k8s
+
+https://caleblloyd.com/software/crds-killed-free-kubernetes-control-plane/
+
 ## Interesting Follows
 
 - @chrismunns
