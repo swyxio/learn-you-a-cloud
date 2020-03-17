@@ -15,7 +15,7 @@ azure https://burkeholland.github.io/posts/laws-of-serverless/
 portability
 
 - data
-- workflow
+- workflow - terraform is useful even to single cloud companies. hashimoto lemmas
 - workload
 - traffic 
 
