@@ -50,6 +50,14 @@ https://caleblloyd.com/software/crds-killed-free-kubernetes-control-plane/
 - https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/the-staying-power-of-kubernetes-with-kelsey-hightower/
 
 
+## Fun Facts
+
+https://medium.com/descarteslabs-team/thunder-from-the-cloud-40-000-cores-running-in-concert-on-aws-bf1610679978
+
+AWS Supercomputer - $5,000 on the company credit card for the use of a “high-network-throughput instance block” consisting of 41,472 processor cores and 157.8 gigabytes of memory. It then worked out some software to make the collection act as a single machine. Running the standard supercomputer test suite, called LinPack, the system reached 1,926.4 teraFLOPS
+
+compared to o $20 to $30 million. Not to mention a 6–12 month wait time.
+
 ## Dynamodb
 
 - https://fauna.com/blog/a-comparison-of-scalable-database-isolation-levels
