@@ -10,6 +10,15 @@ aws db's https://medium.com/@nicholasmwalsh/aws-databases-deep-dive-season-1-rec
 
 azure https://burkeholland.github.io/posts/laws-of-serverless/
 
+## Ideas
+
+portability
+
+- data
+- workflow
+- workload
+- traffic 
+
 ## Serverful
 
 - https://segment.com/blog/when-aws-autoscale-doesn-t/
@@ -28,6 +37,12 @@ https://caleblloyd.com/software/crds-killed-free-kubernetes-control-plane/
 - @jeremy_daly
 - @alexbdebrie
 - https://twitter.com/AWSbrett
+
+## Key Podcasts
+
+- https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/episode-67-infrastructure-as-code-with-terraform-and-mitchell-hashimoto/
+- https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/the-staying-power-of-kubernetes-with-kelsey-hightower/
+
 
 ## Dynamodb
 
