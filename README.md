@@ -25,6 +25,15 @@ main things you want
 - networking
 - storage
 
+5 things to define cloud 
+ https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/five-characteristics-that-define-the-cloud-with-nicole-forsgren-phd/
+on demand self service
+broad network/device access
+rapid elasticity
+resource pooling (multitenant) 
+measure service (control, optimise, report) 
+
+
 ## Serverful
 
 - https://segment.com/blog/when-aws-autoscale-doesn-t/
