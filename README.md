@@ -19,6 +19,12 @@ portability
 - workload
 - traffic 
 
+main things you want
+
+- compute
+- networking
+- storage
+
 ## Serverful
 
 - https://segment.com/blog/when-aws-autoscale-doesn-t/
