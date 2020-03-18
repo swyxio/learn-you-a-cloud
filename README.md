@@ -10,6 +10,9 @@ aws db's https://medium.com/@nicholasmwalsh/aws-databases-deep-dive-season-1-rec
 
 azure https://burkeholland.github.io/posts/laws-of-serverless/
 
+
+brian leroux - multicloud - https://shoptalkshow.com/403/
+
 ## Ideas
 
 portability
