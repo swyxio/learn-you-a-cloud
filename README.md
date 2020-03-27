@@ -36,6 +36,10 @@ rapid elasticity
 resource pooling (multitenant) 
 measure service (control, optimise, report) 
 
+## SNS + SQS
+
+https://www.helenanderson.co.nz/aws-a-z/
+
 
 ## Serverful
 
