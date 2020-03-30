@@ -1,5 +1,14 @@
 # learn-you-a-cloud
 
+## official sources
+
+AWS
+
+- http://aws.training/ Video courses & certifications
+- https://aws.amazon.com/whitepapers/ Whitepapers for those who like to read ([intro category](https://aws.amazon.com/whitepapers/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc&awsf.whitepapers-content-category=content-category%23intro))
+
+## misc
+
 base rates https://github.com/sirupsen/napkin-math
 GCP vs AWS https://cloud.google.com/docs/compare/aws
 
