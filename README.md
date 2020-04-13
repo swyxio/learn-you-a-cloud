@@ -50,6 +50,8 @@ measure service (control, optimise, report)
 https://www.helenanderson.co.nz/aws-a-z/
 
 
+Jeremy Daly vs kineseis vs sns vs sqs https://github.com/sw-yx/learn-you-a-cloud
+
 ## Serverful
 
 - https://segment.com/blog/when-aws-autoscale-doesn-t/
