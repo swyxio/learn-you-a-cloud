@@ -58,6 +58,10 @@ Jeremy Daly vs kineseis vs sns vs sqs https://github.com/sw-yx/learn-you-a-cloud
 
 ![https://assets.contents.io/asset_VZAy69XEkrpT8e4p.png](https://assets.contents.io/asset_VZAy69XEkrpT8e4p.png)
 
+## Storage
+
+https://www.backblaze.com/blog/backblaze-b2-s3-compatible-api/
+
 ## k8s
 
 https://caleblloyd.com/software/crds-killed-free-kubernetes-control-plane/
