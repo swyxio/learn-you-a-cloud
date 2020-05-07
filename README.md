@@ -7,6 +7,8 @@ AWS
 - http://aws.training/ Video courses & certifications
 - https://aws.amazon.com/whitepapers/ Whitepapers for those who like to read ([intro category](https://aws.amazon.com/whitepapers/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc&awsf.whitepapers-content-category=content-category%23intro))
 
+cost vs onprem https://news.ycombinator.com/item?id=23089999#23100852
+ 
 ## misc
 
 base rates https://github.com/sirupsen/napkin-math
