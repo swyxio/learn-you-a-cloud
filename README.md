@@ -8,6 +8,11 @@ AWS
 - https://aws.amazon.com/whitepapers/ Whitepapers for those who like to read ([intro category](https://aws.amazon.com/whitepapers/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc&awsf.whitepapers-content-category=content-category%23intro))
 
 cost vs onprem https://news.ycombinator.com/item?id=23089999#23100852
+
+
+Market Share
+
+![https://cdn.benzinga.com/files/u101977/cloud.png](https://cdn.benzinga.com/files/u101977/cloud.png)
  
 ## misc
 
