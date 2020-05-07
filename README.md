@@ -98,6 +98,7 @@ compared to o $20 to $30 million. Not to mention a 6–12 month wait time.
 
 Lambdas can optimize themselves and add slow moving persistent state by updating their own code
 - https://www.youtube.com/watch?v=mYduv751N6g
+- https://theburningmonk.com/2019/05/a-self-healing-kinesis-function-that-adapts-its-throughput-based-on-performance/
 
 ## Dynamodb
 
