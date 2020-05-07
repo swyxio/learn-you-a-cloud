@@ -96,6 +96,9 @@ AWS Supercomputer - $5,000 on the company credit card for the use of a “high-n
 
 compared to o $20 to $30 million. Not to mention a 6–12 month wait time.
 
+Lambdas can optimize themselves
+- https://www.youtube.com/watch?v=mYduv751N6g
+
 ## Dynamodb
 
 - https://fauna.com/blog/a-comparison-of-scalable-database-isolation-levels
