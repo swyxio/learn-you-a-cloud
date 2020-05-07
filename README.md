@@ -100,6 +100,9 @@ Lambdas can optimize themselves and add slow moving persistent state by updating
 - https://www.youtube.com/watch?v=mYduv751N6g
 - https://theburningmonk.com/2019/05/a-self-healing-kinesis-function-that-adapts-its-throughput-based-on-performance/
 
+you can ssh into lambda
+- http://www.lambdashell.com/
+
 ## Dynamodb
 
 - https://fauna.com/blog/a-comparison-of-scalable-database-isolation-levels
