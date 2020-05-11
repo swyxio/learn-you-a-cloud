@@ -33,6 +33,11 @@ azure https://burkeholland.github.io/posts/laws-of-serverless/
 
 brian leroux - multicloud - https://shoptalkshow.com/403/
 
+## Cognito
+
+- underappreciated features https://twitter.com/undef_obj/status/1256022338228781056?s=20
+- community complaints https://github.com/aws-amplify/amplify-js/issues/3495
+
 ## Ideas
 
 portability
