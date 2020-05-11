@@ -14,6 +14,10 @@ Market Share
 
 ![https://cdn.benzinga.com/files/u101977/cloud.png](https://cdn.benzinga.com/files/u101977/cloud.png)
  
+## Problems
+
+- elasticache, lambda, kinesis https://news.ycombinator.com/item?id=23131449
+ 
 ## misc
 
 base rates https://github.com/sirupsen/napkin-math
