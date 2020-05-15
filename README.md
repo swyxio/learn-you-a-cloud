@@ -112,6 +112,10 @@ Lambdas can optimize themselves and add slow moving persistent state by updating
 you can ssh into lambda
 - http://www.lambdashell.com/
 
+## Maps of AWS
+
+data, execution, movement. periodic table https://moca.computingarchitectures.com/en/~hello-world/?15
+
 ## Dynamodb
 
 - https://fauna.com/blog/a-comparison-of-scalable-database-isolation-levels
