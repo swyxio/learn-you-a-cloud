@@ -125,3 +125,9 @@ data, execution, movement. periodic table https://moca.computingarchitectures.co
 Storage
 
 - lambda for secondary storage https://www.honeycomb.io/blog/secondary-storage-to-just-storage/
+
+
+
+## S3 infra
+
+- https://github.com/Netflix-Skunkworks/policyuniverse/blob/master/README.md
