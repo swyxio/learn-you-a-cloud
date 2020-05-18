@@ -131,3 +131,8 @@ Storage
 ## S3 infra
 
 - https://github.com/Netflix-Skunkworks/policyuniverse/blob/master/README.md
+
+
+## CLI
+
+- https://starship.rs/config/#aws command prompts
