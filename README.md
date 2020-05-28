@@ -113,6 +113,8 @@ Lambdas can optimize themselves and add slow moving persistent state by updating
 you can ssh into lambda
 - http://www.lambdashell.com/
 
+why ingress is free https://medium.com/google-cloud/why-ingress-traffic-to-the-cloud-is-free-79dc217b916
+
 ## Maps of AWS
 
 data, execution, movement. periodic table https://moca.computingarchitectures.com/en/~hello-world/?15
