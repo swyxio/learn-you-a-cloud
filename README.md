@@ -76,7 +76,8 @@ Jeremy Daly vs kineseis vs sns vs sqs https://github.com/sw-yx/learn-you-a-cloud
 
 ## Storage
 
-https://www.backblaze.com/blog/backblaze-b2-s3-compatible-api/
+- https://www.backblaze.com/blog/backblaze-b2-s3-compatible-api/
+- learn s3 http://s3game-level1.s3-website.us-east-2.amazonaws.com/
 
 ## k8s
 
