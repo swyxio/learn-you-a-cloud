@@ -117,6 +117,9 @@ you can ssh into lambda
 
 data, execution, movement. periodic table https://moca.computingarchitectures.com/en/~hello-world/?15
 
+
+aws in one sentence https://adayinthelifeof.nl/2020/05/20/aws.html
+
 ## Dynamodb
 
 - https://fauna.com/blog/a-comparison-of-scalable-database-isolation-levels
