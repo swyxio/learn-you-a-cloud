@@ -64,6 +64,7 @@ measure service (control, optimise, report)
 ## SNS + SQS
 
 https://www.helenanderson.co.nz/aws-a-z/
+- https://lumigo.io/blog/sqs-and-lambda-the-missing-guide-on-failure-modes/
 
 
 Jeremy Daly vs kineseis vs sns vs sqs https://github.com/sw-yx/learn-you-a-cloud
