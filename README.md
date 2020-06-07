@@ -22,7 +22,7 @@ Market Share
 
 base rates https://github.com/sirupsen/napkin-math
 GCP vs AWS https://cloud.google.com/docs/compare/aws
-
+evaluating vps providers https://youtu.be/Kx_1NYYJS7Q
 AWS vs Azure https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services#feedback
 
 
