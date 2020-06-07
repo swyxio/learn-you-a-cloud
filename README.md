@@ -67,7 +67,11 @@ https://www.helenanderson.co.nz/aws-a-z/
 - https://lumigo.io/blog/sqs-and-lambda-the-missing-guide-on-failure-modes/
 
 
-Jeremy Daly vs kineseis vs sns vs sqs https://github.com/sw-yx/learn-you-a-cloud
+Jeremy Daly vs kinesis vs sns vs sqs https://github.com/sw-yx/learn-you-a-cloud
+
+## CloudWatch
+
+- Alerts everyone should have https://github.com/lumigo/SAR-cloudwatch-alarms-macro
 
 ## Serverful
 
