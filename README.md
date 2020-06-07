@@ -73,6 +73,12 @@ Jeremy Daly vs kinesis vs sns vs sqs https://github.com/sw-yx/learn-you-a-cloud
 
 - Alerts everyone should have https://github.com/lumigo/SAR-cloudwatch-alarms-macro
 
+## Cost/Speed Optimizing 
+
+- careful about using APIG vs ALB - APIG is expensive at scale! use HTTPAPIs
+- https://theburningmonk.com/2019/10/all-you-need-to-know-about-caching-for-serverless-applications/
+- https://github.com/alexcasalboni/aws-lambda-power-tuning
+
 ## Serverful
 
 - https://segment.com/blog/when-aws-autoscale-doesn-t/
