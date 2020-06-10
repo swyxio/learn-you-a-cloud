@@ -146,6 +146,9 @@ Storage
 - lambda for secondary storage https://www.honeycomb.io/blog/secondary-storage-to-just-storage/
 
 
+# multicloud
+
+- https://www.reddit.com/r/devops/comments/91afzz/comment/e2x156y
 
 ## S3 infra
 
