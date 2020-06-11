@@ -6,6 +6,7 @@ AWS
 
 - http://aws.training/ Video courses & certifications
 - https://aws.amazon.com/whitepapers/ Whitepapers for those who like to read ([intro category](https://aws.amazon.com/whitepapers/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc&awsf.whitepapers-content-category=content-category%23intro))
+- https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/welcome.html JS SDK
 
 cost vs onprem https://news.ycombinator.com/item?id=23089999#23100852
 
